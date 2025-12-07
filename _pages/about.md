@@ -30,22 +30,23 @@ latest_posts:
 <p>Hi, I am a seisemologist. I study earthquake source processes using seismic observations and numerical simulations. My research interests include near-source seismic data modeling, heterogenous earthquake rupture and seismic radiation, fault frictional properties, and earthquake rupture scenario simulations. </p>
 
 <p>I got my bachelor degree in Geophysics from <a href='https://en.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a> in 2017. During 2017-2022, I went to Hong Kong and did my Ph.D. in the <a href='https://www.cuhk.edu.hk/english/index.html'>The Chinese University of Hong Kong (CUHK)</a>, supervised by <a href='https://www.cuhk.edu.hk/sci/essc/yang/'>Dr. Hongfeng Yang</a>. Now I am a Psotdoc in the Geology Lab of ENS in Paris, working with <a href='https://harshasbhat.github.io/'>Dr. Harsha Bhat</a> and <a href='https://www.ah-ha.fr/'>Dr. Hideo Aochi</a>.</p>
-<p>
-</p>
 
 
+<br><br>
 ### <strong>Education</strong>
 <p><strong>Ph.D. Chinese University of Hong Kong </strong>
     Seismology | 2017.8-2022.7 | Advisor: Dr. Hongfeng Yang </p>
-<p><strong>Bachelor University of Science and Technology of China
+<p><strong>Bachelor University of Science and Technology of China </strong>
     Seismology | 2013.8-2017.6 </p>
 
-## Employment
-### Postdoc Geology Lab of ENS, Paris  
-    20125.10-present | Advisor: Dr. Harsha Bhat Dr.Hideo Aochi
-### Postdoc Chinese University of Hong Kong   
-    20122.7-2025.10 | Advisor: Dr. Hongfeng Yang
-### Visiting Scholar  Southern University of Science and Technology
-    2024.5-2025.8 | Advisor:  Dr. Lingling Ye
+<br>
+
+### Employment
+<p><strong>Postdoc Geology Lab of ENS, Paris</strong>  
+    2025.10-present | Advisor: Dr. Harsha Bhat Dr.Hideo Aochi</p>
+<p><strong>Postdoc Chinese University of Hong Kong</strong>  
+    2022.7-2025.10 | Advisor: Dr. Hongfeng Yang</p>
+<p><strong>Visiting Scholar  Southern University of Science and Technology</strong>
+    2024.5-2025.8 | Advisor:  Dr. Lingling Ye</p>
 
     
