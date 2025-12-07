@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am a seisemologist. I study earthquake source processes using seismic observations and numerical simulations. My research interests include near-source seismic data modeling, heterogenous earthquake rupture and seismic radiation, fault frictional properties, and rupture scenarios for future earthquakes. 
+Hi, I am a seisemologist. I study earthquake source processes using seismic observations and numerical simulations. My research interests include near-source seismic data modeling, heterogenous earthquake rupture and seismic radiation, fault frictional properties, and earthquake rupture scenario simulations. 
