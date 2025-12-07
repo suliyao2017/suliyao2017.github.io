@@ -13,6 +13,12 @@ profile:
     <p>24 rue Lhomond, 75005</p>
     <p>Paris, France</p>
 
+## Education
+**Chinese University of Hong Kong **  
+  *Ph.D. in Seismology* | 2017.8-2022.7 
+  - Advisor: Prof. Hongfeng Yang
+
+
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
