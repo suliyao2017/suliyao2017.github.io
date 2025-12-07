@@ -13,12 +13,6 @@ profile:
     <p>24 rue Lhomond, 75005</p>
     <p>Paris, France</p>
 
-*** Education ***
-**Chinese University of Hong Kong **  
-  *Ph.D. in Seismology* | 2017.8-2022.7 
-  - Advisor: Prof. Hongfeng Yang
-
-
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -36,3 +30,8 @@ latest_posts:
 <p>Hi, I am a seisemologist. I study earthquake source processes using seismic observations and numerical simulations. My research interests include near-source seismic data modeling, heterogenous earthquake rupture and seismic radiation, fault frictional properties, and earthquake rupture scenario simulations. </p>
 
 <p>I got my bachelor degree in Geophysics from <a href='https://en.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a> in 2017. During 2017-2022, I went to Hong Kong and did my Ph.D. in the <a href='https://www.cuhk.edu.hk/english/index.html'>The Chinese University of Hong Kong (CUHK)</a>, supervised by <a href='https://www.cuhk.edu.hk/sci/essc/yang/'>Dr. Hongfeng Yang</a>. Now I am a Psotdoc in the Geology Lab of ENS in Paris, working with <a href='https://harshasbhat.github.io/'>Dr. Harsha Bhat</a> and <a href='https://www.ah-ha.fr/'>Dr. Hideo Aochi</a>.</p>
+
+*** Education ***
+**Chinese University of Hong Kong **  
+  *Ph.D. in Seismology* | 2017.8-2022.7 
+  - Advisor: Prof. Hongfeng Yang
