@@ -33,10 +33,10 @@ latest_posts:
 
 
 
-## Education
-### Ph.D. Chinese University of Hong Kong   
+### <strong>Education</strong>
+<p><strong>Ph.D. Chinese University of Hong Kong </strong></p>
     Seismology | 2017.8-2022.7 | Advisor: Dr. Hongfeng Yang
-### Bachelor University of Science and Technology of China  
+<p><strong>Bachelor University of Science and Technology of China</p>
     Seismology | 2013.8-2017.6 
 
 ## Employment
