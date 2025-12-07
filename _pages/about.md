@@ -31,7 +31,8 @@ latest_posts:
 
 <p>I got my bachelor degree in Geophysics from <a href='https://en.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a> in 2017. During 2017-2022, I went to Hong Kong and did my Ph.D. in the <a href='https://www.cuhk.edu.hk/english/index.html'>The Chinese University of Hong Kong (CUHK)</a>, supervised by <a href='https://www.cuhk.edu.hk/sci/essc/yang/'>Dr. Hongfeng Yang</a>. Now I am a Psotdoc in the Geology Lab of ENS in Paris, working with <a href='https://harshasbhat.github.io/'>Dr. Harsha Bhat</a> and <a href='https://www.ah-ha.fr/'>Dr. Hideo Aochi</a>.</p>
 
-*** Education ***
-**Chinese University of Hong Kong **  
-  *Ph.D. in Seismology* | 2017.8-2022.7 
-  - Advisor: Prof. Hongfeng Yang
+
+
+## Education
+### Ph.D. Chinese University of Hong Kong   
+    Seismology* | 2017.8-2022.7 | Advisor: Prof. Hongfeng Yang
