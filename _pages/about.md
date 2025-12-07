@@ -37,13 +37,13 @@ latest_posts:
 <p><strong>Ph.D. | Chinese University of Hong Kong </strong>
     Seismology | 2017.8-2022.7 | Advisor: Dr. Hongfeng Yang </p>
 <p><strong>Bachelor | University of Science and Technology of China </strong>
-    Seismology | 2013.8-2017.6 </p>
+    Geophysics | 2013.8-2017.6 </p>
 
 <br>
 
 ### <strong>Employment</strong>
 <p><strong>Postdoc | Geology Lab of ENS, Paris</strong>  
-    2025.10-present | Advisor: Dr. Harsha Bhat Dr.Hideo Aochi</p>
+    2025.10-present | Advisor: Dr. Harsha Bhat and Dr.Hideo Aochi</p>
 <p><strong>Postdoc | Chinese University of Hong Kong</strong>  
     2022.7-2025.10 | Advisor: Dr. Hongfeng Yang</p>
 <p><strong>Visiting Scholar | Southern University of Science and Technology</strong>
