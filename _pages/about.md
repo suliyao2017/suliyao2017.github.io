@@ -35,4 +35,16 @@ latest_posts:
 
 ## Education
 ### Ph.D. Chinese University of Hong Kong   
-    Seismology* | 2017.8-2022.7 | Advisor: Prof. Hongfeng Yang
+    Seismology | 2017.8-2022.7 | Advisor: Dr. Hongfeng Yang
+### Bachelor University of Science and Technology of China  
+    Seismology | 2013.8-2017.6 
+
+## Employment
+### Postdoc Geology Lab of ENS, Paris  
+    20125.10-present | Advisor: Dr. Harsha Bhat Dr.Hideo Aochi
+### Postdoc Chinese University of Hong Kong   
+    20122.7-2025.10 | Advisor: Dr. Hongfeng Yang
+### Visiting Scholar  Southern University of Science and Technology
+    2024.5-2025.8 | Advisor:  Dr. Lingling Ye
+
+    
