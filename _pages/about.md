@@ -41,12 +41,14 @@ latest_posts:
 
 <br>
 
-### Employment
+### <strong>Employment</strong>
 <p><strong>Postdoc Geology Lab of ENS, Paris</strong>  
     2025.10-present | Advisor: Dr. Harsha Bhat Dr.Hideo Aochi</p>
 <p><strong>Postdoc Chinese University of Hong Kong</strong>  
     2022.7-2025.10 | Advisor: Dr. Hongfeng Yang</p>
 <p><strong>Visiting Scholar  Southern University of Science and Technology</strong>
     2024.5-2025.8 | Advisor:  Dr. Lingling Ye</p>
+
+<br><br>
 
     
