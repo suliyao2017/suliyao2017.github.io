@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<p>Hi, I am a seisemologist. I study earthquake source processes using seismic observations and numerical simulations. My research interests include near-source seismic data modeling, heterogenous earthquake rupture and seismic radiation, fault frictional properties, and earthquake rupture scenario simulations. </p>
+<p>Hi, I am a seisemologist. I study earthquake source processes using seismic observations and numerical simulations. My research interests include near-source seismic data modeling, heterogenous natural earthquake rupture processes, fault frictional properties, and earthquake rupture scenario simulations. </p>
 
-<p>I got my bachelor degree in Geophysics at <a href='https://en.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a> in 2017. During 2017-2022, I did my Ph.D. at <a href='https://www.cuhk.edu.hk/english/index.html'>The Chinese University of Hong Kong (CUHK)</a>, supervised by <a href='https://www.cuhk.edu.hk/sci/essc/yang/'>Dr. Hongfeng Yang</a>. Now I am a Psotdoc in the Geology Lab of ENS in Paris, working with <a href='https://harshasbhat.github.io/'>Dr. Harsha Bhat</a> and <a href='https://www.ah-ha.fr/'>Dr. Hideo Aochi</a>.</p>
+<p>I got my bachelor degree in Geophysics at <a href='https://en.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a> in 2017. During 2017-2022, I did my Ph.D. at <a href='https://www.cuhk.edu.hk/english/index.html'>The Chinese University of Hong Kong (CUHK)</a>, supervised by <a href='https://www.cuhk.edu.hk/sci/essc/yang/'>Dr. Hongfeng Yang</a>. Now I am a Psotdoc in the <a href='https://www.geologie.ens.fr/'>Geology Lab of ENS </a> in Paris, working with <a href='https://harshasbhat.github.io/'>Dr. Harsha Bhat</a> and <a href='https://www.ah-ha.fr/'>Dr. Hideo Aochi</a>.</p>
 
 
 <br><br>
